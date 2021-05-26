@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Johannes\Documents\Studium Geoinformatik 2021\Kollaborative Softwareentwicklung\Aufgabe 4\weather-app\.metadata\.plugins\org.eclipse.jdt.core
-1067094681.index
-131590651.index
