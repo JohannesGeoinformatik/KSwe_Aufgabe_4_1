@@ -1,5 +1,0 @@
-public class Weather {
-    public String city;
-    public float temperature = 14.95;
-    public float windSpeed = 2.3;
-}
