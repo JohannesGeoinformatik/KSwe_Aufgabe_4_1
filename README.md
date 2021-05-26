@@ -1,1 +1,1 @@
-In diesem Verzeichnig die Eingabeaufforderung starten und "mvn jetty:run" eingeben.
+In diesem Verzeichnis die Eingabeaufforderung starten und "mvn jetty:run" eingeben.
